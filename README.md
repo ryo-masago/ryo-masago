@@ -9,8 +9,8 @@ I'm continuing to develop my skills through personal projects.
 I enjoy exploring new technologies, solving problems, and building applications.
 
 ## 🤖 Tech Stack
-**Languages:** Ruby, JavaScript, TypeScript, HTML/CSS, SQL
-**Frameworks & Libraries:** Ruby on Rails, React
+**Languages:** Ruby, JavaScript, TypeScript, HTML/CSS, SQL\
+**Frameworks & Libraries:** Ruby on Rails, React\
 **Tools & Databases:** Git/GitHub, PostgreSQL
 
 ## 🚀 Currently Working On
